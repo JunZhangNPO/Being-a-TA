@@ -9,3 +9,9 @@ First, check the equipment every time at the beginning of each course to ensure 
 Second, ask the Teaching Assistant to help check the chatbox and other online updates so the professor can be reminded if there is a question online.
 
 Third, encourage online participants to express their opinions via the "raise hand" emoji and respond to questions via the chatbox or by speaking directly. The professor usually stops sharing the screen to see online participants' opinions when he asks questions. A small poll can make the class more active.
+
+At the course Social Network Analysis, the TA usually writes down what in-person students said and put it into the online Chatbox to make online attendees can better know the offline conversation. 
+
+*Deal with technique issue*
+take your laptop to access to the Zoom 
+have all email address of students and send slides to them via email or the platform
