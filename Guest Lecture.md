@@ -1,0 +1,8 @@
+- Invite other scholars from within or beyond the department.
+- Invite practitioners.
+- Invite Teaching Assistants or other doctoral students.
+- Make it part of the class, but not the whole class: have a lecture before and a discussion afterward.
+- Send the profile of guest speakers to the students, and ask them to learn about the guest and prepare some questions.
+- Send the Zoom link and invitation.
+- Share slides with the guest's permission.
+- Send a thank-you note after the guest lecture.
