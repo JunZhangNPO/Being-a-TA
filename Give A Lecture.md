@@ -11,14 +11,21 @@ The structure for presenting a topic should follow this basic logic:
   - **Theory**: Explain the theoretical framework or background.
   - **Method**: Describe how it is applied or how to approach the topic.
   - **Examples**: Provide concrete examples to illustrate the points.
-
+  
 ### Timing and Pacing
 
 - **No more than 45 minutes at a time**: Keep the lecture within this limit to maintain attention and effectiveness.
 - **Break it into smaller sections**: Divide the content into several smaller lectures for easier digestion.
 - **Spend at least three minutes per slide**: Ensure enough time is given to explain each slide thoroughly.
-- **Every sentence and figure matters**: Do not skip any information; 
+- **Every sentence and figure matters**: Do not skip any information;
+- **Less is More** You can overprepare but do not need to show everything to students. Do not rush.
 
+### Questions 
+
+- **Do not ask many questions at the begining**: Give students some time to warm up.
+- **Do not upset when no one answers**: It is usually not you fault. However, your emotion can be delivered to students when you get upset.
+- **Use Menti.com**: some technology can help with the Q&A
+  
 ### Feedback
 
 - **Ask for feedback regularly**:
@@ -33,6 +40,7 @@ The structure for presenting a topic should follow this basic logic:
   - **Small group discussions**: Foster peer-to-peer learning and collaboration.
   - **Large group discussions**: Engage the entire class in debate or collective problem-solving.
   - **Collaboration and competition**: Use team-based activities or friendly competition to motivate learning.
+  - **Have a back up**: when one activity does not work, you need to have a plan B
  
 ### Additional Content to Consider
 
