@@ -17,3 +17,8 @@ Oct. 29, 2024 Guest Lecture for PAI 732 Collaboration and Participatory Governan
 
 # **Student E**
 ![image](https://github.com/user-attachments/assets/f95c5357-71de-4ebd-ba2d-f521469587aa)
+
+# **Student F**
+![image](https://github.com/user-attachments/assets/2f235bdb-69b8-4c02-9ca5-a08c9a05f9a4)
+
+
